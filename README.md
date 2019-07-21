@@ -1,4 +1,4 @@
-# MLE_MAP
+# NaiveBayes
 
 ## Overview
 
